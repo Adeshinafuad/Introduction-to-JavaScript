@@ -5,3 +5,4 @@ let country = "Nigeria";
 alert(myName)
 alert(height)
 alert(country)
+
